@@ -1,1 +1,11 @@
+image: Ubuntu1804
+staack: node 12
+branches: 
+  only:
+    -master
 cahe: node_modulse
+install: 
+  -npm install
+build: off
+test_script: 
+  - npm rum jest --coverage
