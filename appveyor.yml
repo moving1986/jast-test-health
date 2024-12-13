@@ -1,5 +1,3 @@
 version: 1.0.{build}
-environment:
-  GITHUB_TOKEN: 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
 build:
   verbosity: minimal
