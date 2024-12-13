@@ -1,0 +1,8 @@
+{
+	"presets": [
+		["@bable/preset-env", {
+			"useBuiltIns":  "usaage"
+			"corejs": 3
+		}]
+	]
+}
