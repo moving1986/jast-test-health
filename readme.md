@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k3a0feshvh4v90a7?svg=true)](https://ci.appveyor.com/project/moving1986/jast-test-health)
